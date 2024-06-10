@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>�� Sobre</h2>
-<p>Projeto número secreto utilizando conceitos de Lógica de Programação</p>
+<p>Projeto de adinhar número secreto utilizando conceitos de Lógica de Programação</p>
 
 ## �� Tecnologias
 <div>
